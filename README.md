@@ -3,7 +3,7 @@
 A simple and responsive web-based calculator built using HTML, CSS, and JavaScript.
 
 <p align="center">
-  <img width="320" height="370" alt="Main Screenshot"
+  <img width="380" height="370" alt="Main Screenshot"
        src="https://github.com/user-attachments/assets/fb3bfb8e-b853-4e35-9610-8b7553ad2343" />
 </p>
 
